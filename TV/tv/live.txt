@@ -1,0 +1,2 @@
+live,#genre#
+CCTV6,https://www.1905.com/cctv6/live/?index

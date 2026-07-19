@@ -1,0 +1,528 @@
+世界频道_2,#genre#
+#EXTINF:-1 tvg-id="Channel 4" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="GPT-英国",Channel 4
+#EXTINF:-1 tvg-id="NatGeo HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NATGEO.png" group-title="GPT-英国",NatGeo HD
+#EXTINF:-1 tvg-id="CBeebies" tvg-name="CBEEBIES" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CBEEBIES.png" group-title="GPT-英国",CBeebies
+#EXTINF:-1 tvg-id="History" tvg-name="HISTORY" tvg-logo="https://nowtv-strapi-bucket.s3.ap-southeast-1.amazonaws.com/223_wbg_c_711bca6ce6.png" group-title="GPT-英国",History
+#EXTINF:-1 tvg-id="Kids TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MYKIDS.png" group-title="GPT-英国",Kids TV
+#EXTINF:-1 tvg-id="France 24" tvg-name="FRANCE24" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FRANCE24.png" group-title="GPT-英国",France 24
+#EXTINF:-1 tvg-id="DW (Deutsch)" tvg-name="DW" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DW.png" group-title="GPT-英国",DW (Deutsch)
+#EXTINF:-1 tvg-id="BBC Earth HD" tvg-name="BBCEARTHHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCEARTH.png" group-title="GPT-英国",BBC Earth HD
+#EXTINF:-1 tvg-id="BBC Earth Lifestyle" tvg-name="BBCEARTH" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCEARTH.png" group-title="GPT-英国",BBC Earth Lifestyle
+#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTVLIVE" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MTVLIVE.png" group-title="GPT-英国",MTV Live
+#EXTINF:-1 tvg-id="Star Movies HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/STARMOVIESHD.png" group-title="GPT-英国",Star Movies HD
+#EXTINF:-1 tvg-id="NHK World" tvg-name="NHKWORLD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NHKWORLD.png" group-title="GPT-英国",NHK World
+#EXTINF:-1 tvg-id="Warner TV" tvg-name="WARNERTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/WARNERTV.png" group-title="GPT-英国",Warner TV
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBOHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBOHD.png" group-title="GPT-英国",HBO HD
+#EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-name="NATGEOWILD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NATGEOWILD.png" group-title="GPT-英国",NatGeo Wild HD
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="NICKELODEON" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NICKELODEON.png" group-title="GPT-英国",Nickelodeon
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="NICKJR" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NICKJR.png" group-title="GPT-英国",Nick Jr
+#EXTINF:-1 tvg-id="Thrill" tvg-name="THRILL" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/THRILL.png" group-title="GPT-英国",Thrill
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="GPT-英国",CGTN
+#EXTINF:-1 tvg-id="Hits Movie" tvg-name="HITSMOVIES(HD)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MOVIE.png" group-title="GPT-英国",Hits Movie
+#EXTINF:-1 tvg-id="Animal Planet (Eng)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ANIMALPLANET.png" group-title="GPT-英国",Animal Planet (Eng)
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBCASIA(HD)" tvg-logo="https://nowtv-strapi-bucket.s3.ap-southeast-1.amazonaws.com/319_wbg_c_dfd95edee4.png" group-title="GPT-英国",CNBC
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TLC.png" group-title="GPT-英国",TLC
+#EXTINF:-1 tvg-id="BBC World News" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCWORLDNEWS.png" group-title="GPT-英国",BBC World News
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HGTV.png" group-title="GPT-英国",HGTV
+#EXTINF:-1 tvg-id="Axn HD" tvg-name="AXN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AXN.png" group-title="GPT-英国",Axn HD
+#EXTINF:-1 tvg-id="Skysports F1" tvg-logo="https://epg.iill.top/logo/Sky-Sports-F1.png" group-title="GPT-英国",Skysports F1
+#EXTINF:-1 tvg-id="Skysports Cricket" tvg-name="CRICKET" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SKYSPORTSCRICKET.png" group-title="GPT-英国",Skysports Cricket
+#EXTINF:-1 tvg-id="Bloomberg News" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BLOOMBERGTV.png" group-title="GPT-英国",Bloomberg News
+#EXTINF:-1 tvg-id="Skysports EPL" tvg-logo="https://nowtv-strapi-bucket.s3.ap-southeast-1.amazonaws.com/329_wbg_c_10d86ae07c.png" group-title="GPT-英国",Skysports EPL
+#EXTINF:-1 tvg-id="Skysports Main Event" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SKYSPORTSMAINEVENT.png" group-title="GPT-英国",Skysports Main Event
+#EXTINF:-1 tvg-id="Skysports News" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SKYSPORTSNEWS.png" group-title="GPT-英国",Skysports News
+#EXTINF:-1 tvg-id="Al-Jazeera" tvg-name="ALJAZEERAENGLISH" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ALJAZEERA.png" group-title="GPT-英国",Al-Jazeera
+#EXTINF:-1 tvg-id="lamdong2" group-title="DAKLAKIPTV"tvg-logo="https://github.com/kupjta/vuminhthanh12/blob/main/LTV2HD.png?raw=true",LTV2 | TH Lâm Đồng 2
+#EXTINF:-1 tvg-id="lamdong3" group-title="DAKLAKIPTV"tvg-logo="https://github.com/kupjta/vuminhthanh12/blob/main/LTV3HD.png?raw=true",LTV3 | TH Lâm Đồng 3
+#EXTINF:-1 tvg-id="dongnai1" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/DCLUAqZ.png",ĐN1 | TH Đồng Nai 1
+#EXTINF:-1 tvg-id="dongthap1" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/TqAz7ET.png",THĐT1 | TH Đồng Tháp
+#EXTINF:-1 tvg-id="hatinh" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/4yIgKKx.png",BHTTV | TH Hà Tĩnh
+#EXTINF:-1 tvg-id="DAKLAKIPTV" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/8rGiYuk.png",TTV1 | TH Tây Ninh 1
+#EXTINF:-1 tvg-id="ninhbinh" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/pL4NqYO.png",NTV | TH Ninh Bình
+#EXTINF:-1 tvg-id="tayninh2" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/8rGiYuk.png",TTV2 | TH Tây Ninh 2
+#EXTINF:-1 tvg-id="vinhlong5hd" group-title="DAKLAKIPTV" tvg-logo="https://github.com/kupjta/vuminhthanh12/blob/main/THVL5.jpg?raw=true",THVL5
+#EXTINF:-1 tvg-id="ono2tv" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/nqwVkmM.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=27&time=${start}&offset=${duration}",ON O2TV
+#EXTINF:-1 tvg-id="oncine" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/6f9ngwY.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab10-on-cine/${start}/${offset}",ON Cine
+#EXTINF:-1 tvg-id="onviedramas" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
+#EXTINF:-1 tvg-id="onbibi" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/YFmPo7l.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=205&time=${start}&offset=${duration}",ON BiBi
+#EXTINF:-1 tvg-id="onkids" group-title="DAKLAKIPTV" tvg-logo="https://i.ibb.co/mq65M0Y/On-kids.jpg",ON KIDS
+#EXTINF:-1 tvg-id="onviegiaitri" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/7GSKm46.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=197&time=${start}&offset=${duration}",ON Vie Giải Trí
+#EXTINF:-1 tvg-id="onmovies" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/765Y3jw.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=435&time=${start}&offset=${duration}",ON Movies
+#EXTINF:-1 tvg-id="onechannel" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/87JEXEQ.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=202&time=${start}&offset=${duration}",ON E Channel
+#EXTINF:-1 tvg-id="onstyle" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/6LQ0Z1O.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab12-style-tv/${start}/${offset}",ON Style TV
+#EXTINF:-1 tvg-id="onmusic" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/45BXPY3.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab15/${start}/${offset}",ON Music
+#EXTINF:-1 tvg-id="ontrending" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
+#EXTINF:-1 tvg-id="DAKLAKIPTV" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
+#EXTINF:-1 tvg-id="DAKLAKIPTV" group-title="DAKLAKIPTV" tvg-logo="https://i.ibb.co/QXk7C6G/On-life.jpg",On Life
+#EXTINF:-1 tvg-id="DAKLAKIPTV" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/jp57P0v.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=437&time=${start}&offset=${duration}",ON Info TV
+#EXTINF:-1 tvg-id="sctv2hd" group-title="DAKLAKIPTV" tvg-logo="https://i.ibb.co/VqNpntW/sctv2-hd.png",SCTV2
+#EXTINF:-1 tvg-id="dongnai2" group-title="DAKLAKIPTV" tvg-logo="https://i.imgur.com/8qlDA5N.png",ĐN2 | TH Đồng Nai 2
+#EXTINF:-1 tvg-id="zdfinfohd" tvg-chno="213" group-title="越南" tvg-logo="https://picserve.netplus.ch/channels/zdfinfohd.png", ZDF info HD
+#EXTINF:-1 tvg-id="zdfneohd" tvg-chno="214" group-title="越南" tvg-logo="https://picserve.netplus.ch/channels/zdfneohd.png", ZDF neo HD
+#EXTINF:-1 tvg-id="rtl" tvg-chno="169" group-title="越南" tvg-logo="https://picserve.netplus.ch/channels/rtl.png", RTL
+#EXTINF:-1 tvg-id="rtl2" tvg-chno="167" group-title="越南" tvg-logo="https://picserve.netplus.ch/channels/rtl2.png", RTL 2
+#EXTINF:-1 tvg-id="rtlnitro" tvg-chno="170" group-title="越南" tvg-logo="https://picserve.netplus.ch/channels/rtlnitro.png", RTL Nitro
+#EXTINF:-1 tvg-id="kikahd" tvg-chno="116" group-title="越南" tvg-logo="https://picserve.netplus.ch/channels/kikahd.png", KIKA HD
+#EXTINF:-1 tvg-id="mdr" tvg-chno="128" group-title="越南" tvg-logo="https://picserve.netplus.ch/channels/mdr.png", MDR
+#EXTINF:-1 tvg-id="n24" tvg-chno="133" group-title="越南" tvg-logo="https://picserve.netplus.ch/channels/n24.png", Welt
+#EXTINF:-1 tvg-id="ndr" tvg-chno="134" group-title="越南" tvg-logo="https://picserve.netplus.ch/channels/ndr.png", NDR
+#EXTINF:-1 tvg-id="onehd" tvg-chno="141" group-title="越南" tvg-logo="https://picserve.netplus.ch/channels/onehd.png", onehd
+#EXTINF:-1 tvg-id="hr" tvg-chno="108" group-title="越南" tvg-logo="https://picserve.netplus.ch/channels/hr.png", HR
+#EXTINF:-1 tvg-id="orf1" tvg-chno="143" group-title="越南" tvg-logo="https://picserve.netplus.ch/channels/orf1.png", ORF 1
+#EXTINF:-1 tvg-id="orf2" tvg-chno="144" group-title="越南" tvg-logo="https://picserve.netplus.ch/channels/orf2.png", ORF 2
+#EXTINF:-1 tvg-id="phoenixhd" tvg-chno="146" group-title="越南" tvg-logo="https://picserve.netplus.ch/channels/phoenixhd.png", Phoenix HD
+#EXTINF:-1 tvg-id="comedycentral" tvg-chno="46" group-title="越南" tvg-logo="https://picserve.netplus.ch/channels/comedycentral.png", comedycentral
+#EXTINF:-1 tvg-id="comedycentralnick" tvg-chno="47" group-title="越南" tvg-logo="https://picserve.netplus.ch/channels/comedycentralnick.png", Nick
+#EXTINF:-1 tvg-id="deluxemusic" tvg-chno="50" group-title="越南" tvg-logo="https://picserve.netplus.ch/channels/deluxemusic.png", deluxemusic
+#EXTINF:-1 tvg-id="disneychannelde" tvg-chno="51" group-title="越南" tvg-logo="https://picserve.netplus.ch/channels/disneychannelde.png", Disney Channel DE
+#EXTINF:-1 tvg-id="dmax" tvg-chno="53" group-title="越南" tvg-logo="https://picserve.netplus.ch/channels/dmax.png", dmax
+#EXTINF:-1 tvg-id="rbb" tvg-chno="156" group-title="越南" tvg-logo="https://picserve.netplus.ch/channels/rbb.png", rbb
+#EXTINF:-1 tvg-id="startv" tvg-chno="182" group-title="越南" tvg-logo="https://picserve.netplus.ch/channels/startv.png", startv
+#EXTINF:-1 tvg-id="superrtl" tvg-chno="183" group-title="越南" tvg-logo="https://picserve.netplus.ch/channels/superrtl.png", Super RTL
+#EXTINF:-1 tvg-id="swrbw" tvg-chno="184" group-title="越南" tvg-logo="https://picserve.netplus.ch/channels/swrbw.png", SWR BW
+#EXTINF:-1 tvg-id="tele5" tvg-chno="187" group-title="越南" tvg-logo="https://picserve.netplus.ch/channels/tele5.png", Tele 5
+#EXTINF:-1 tvg-id="vox" tvg-chno="209" group-title="越南" tvg-logo="https://picserve.netplus.ch/channels/vox.png", Vox
+#EXTINF:-1 tvg-id="wdrhd" tvg-chno="211" group-title="越南" tvg-logo="https://picserve.netplus.ch/channels/wdrhd.png", WDR HD
+#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png" group-title="🌟湾湾频道②🌟",民視第一台
+#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv001_mobile.png" group-title="🌟湾湾频道②🌟",民視台灣台
+#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_mobile.png" group-title="🌟湾湾频道②🌟",民視
+#EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv007_mobile.png" group-title="🌟湾湾频道②🌟",大愛電視
+#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="🌟湾湾频道②🌟",中視
+#EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv080_mobile.png" group-title="🌟湾湾频道②🌟",中視經典台
+#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv041_mobile.png" group-title="🌟湾湾频道②🌟",華視
+#EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live207_mobile.png" group-title="🌟湾湾频道②🌟",三立綜合台
+#EXTINF:-1 tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv043_mobile.png" group-title="🌟湾湾频道②🌟",客家電視台
+#EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="🌟湾湾频道②🌟",八大綜藝台
+#EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv064_mobile.png" group-title="🌟湾湾频道②🌟",中視菁采台
+#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live086_mobile.png" group-title="🌟湾湾频道②🌟",TVBS精采台
+#EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv070_mobile.png" group-title="🌟湾湾频道②🌟",愛爾達娛樂台
+#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv046_mobile.png" group-title="🌟湾湾频道②🌟",靖天綜合台
+#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv047_mobile.png" group-title="🌟湾湾频道②🌟",靖天日本台
+#EXTINF:-1 tvg-id="新唐人亞太台" tvg-name="新唐人亞太台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live050_mobile.png" group-title="🌟湾湾频道②🌟",新唐人亞太台
+#EXTINF:-1 tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv079_1_mobile.png" group-title="🌟湾湾频道②🌟",ARIRANG阿里郎頻道
+#EXTINF:-1 tvg-id="hlsproxy-88" tvg-name="Global Trekker" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live112_mobile.png" group-title="🌟湾湾频道②🌟",Global Trekker
+#EXTINF:-1 tvg-id="原住民族電視台" tvg-name="原住民族電視台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live014_mobile.png" group-title="🌟湾湾频道②🌟",原住民族電視台
+#EXTINF:-1 tvg-id="東森購物四台" tvg-name="東森購物四台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.png" group-title="🌟湾湾频道②🌟",東森購物四台
+#EXTINF:-1 tvg-id="LiveABC互動英語頻道" tvg-name="LiveABC互動英語頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live030_mobile.png" group-title="🌟湾湾频道②🌟",LiveABC互動英語頻道
+#EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv018_mobile.png" group-title="🌟湾湾频道②🌟",達文西頻道
+#EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn20_mobile.png" group-title="🌟湾湾频道②🌟",ELTV生活英語台
+#EXTINF:-1 tvg-id="hlsproxy-135" tvg-name="Nick Jr. 兒童頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live032_mobile.png" group-title="🌟湾湾频道②🌟",Nick Jr. 兒童頻道
+#EXTINF:-1 tvg-id="尼克兒童頻道" tvg-name="尼克兒童頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/ogo_4gtv_4gtv-live105_mobile.png" group-title="🌟湾湾频道②🌟",尼克兒童頻道
+#EXTINF:-1 tvg-id="DreamWorks 夢工廠動畫" tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live017_mobile.png" group-title="🌟湾湾频道②🌟",DreamWorks 夢工廠動畫
+#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv044_mobile.png" group-title="🌟湾湾频道②🌟",靖天卡通台
+#EXTINF:-1 tvg-id="靖洋卡通Nice Bingo" tvg-name="靖洋卡通Nice Bingo" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv057_mobile.png" group-title="🌟湾湾频道②🌟",靖洋卡通Nice Bingo
+#EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live107.png" group-title="🌟湾湾频道②🌟",MOMO親子台
+#EXTINF:-1 tvg-id="東森購物一台" tvg-name="東森購物一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.png" group-title="🌟湾湾频道②🌟",東森購物一台
+#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv075_mobile.png" group-title="🌟湾湾频道②🌟",鏡電視新聞台
+#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv14_mobile.png" group-title="🌟湾湾频道②🌟",東森新聞台
+#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv052_mobile.png" group-title="🌟湾湾频道②🌟",華視新聞
+#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv13_mobile.png" group-title="🌟湾湾频道②🌟",民視新聞台
+#EXTINF:-1 tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live089_mobile.png" group-title="🌟湾湾频道②🌟",三立新聞iNEWS
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv072_mobile.png" group-title="🌟湾湾频道②🌟",TVBS新聞
+#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv019_mobile.png" group-title="🌟湾湾频道②🌟",東森財經新聞台
+#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv074_mobile.png" group-title="🌟湾湾频道②🌟",中視新聞
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv009_mobile.png" group-title="🌟湾湾频道②🌟",中天新聞台
+#EXTINF:-1 tvg-id="hlsproxy-41" tvg-name="Bloomberg TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live0_mobile.png" group-title="🌟湾湾频道②🌟",Bloomberg TV
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn14_mobile.png" group-title="🌟湾湾频道②🌟",寰宇新聞台
+#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn15_mobile.png" group-title="🌟湾湾频道②🌟",寰宇新聞台灣台
+#EXTINF:-1 tvg-id="SBN全球財經台" tvg-name="SBN全球財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live060_mobile.png" group-title="🌟湾湾频道②🌟",SBN全球財經台
+#EXTINF:-1 tvg-id="hlsproxy-20919" tvg-name="TVBS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv073_mobile.png" group-title="🌟湾湾频道②🌟",TVBS
+#EXTINF:-1 tvg-id="東森購物二台" tvg-name="東森購物二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live046_mobile.png" group-title="🌟湾湾频道②🌟",東森購物二台
+#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv004_mobile.png" group-title="🌟湾湾频道②🌟",民視綜藝台
+#EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv006_mobile.png" group-title="🌟湾湾频道②🌟",豬哥亮歌廳秀
+#EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv062_mobile.png" group-title="🌟湾湾频道②🌟",靖天育樂台
+#EXTINF:-1 tvg-id="KLT-靖天國際台" tvg-name="KLT-靖天國際台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv063_mobile.png" group-title="🌟湾湾频道②🌟",KLT-靖天國際台
+#EXTINF:-1 tvg-id="hlsproxy-841" tvg-name="Nice TV 靖天歡樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv054_mobile.png" group-title="🌟湾湾频道②🌟",Nice TV 靖天歡樂台
+#EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv065_mobile.png" group-title="🌟湾湾频道②🌟",靖天資訊台
+#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv068_mobile.png" group-title="🌟湾湾频道②🌟",TVBS歡樂台
+#EXTINF:-1 tvg-id="韓國娛樂台 KMTV" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv016_mobile.png" group-title="🌟湾湾频道②🌟",韓國娛樂台 KMTV
+#EXTINF:-1 tvg-id="hlsproxy-4176" tvg-name="ROCK Entertainment" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live080_mobile.png" group-title="🌟湾湾频道②🌟",ROCK Entertainment
+#EXTINF:-1 tvg-id="hlsproxy-20534" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live029_mobile.png" group-title="🌟湾湾频道②🌟",Lifetime 娛樂頻道
+#EXTINF:-1 tvg-id="電影原聲台CMusic" tvg-name="電影原聲台CMusic" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live031_mobile.png" group-title="🌟湾湾频道②🌟",電影原聲台CMusic
+#EXTINF:-1 tvg-id="hlsproxy-181" tvg-name="TRACE Urban" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv082_mobile.png" group-title="🌟湾湾频道②🌟",TRACE Urban
+#EXTINF:-1 tvg-id="hlsproxy-116" tvg-name="MTV Live HD 音樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live025_mobile.png" group-title="🌟湾湾频道②🌟",MTV Live HD 音樂頻道
+#EXTINF:-1 tvg-id="hlsproxy-122" tvg-name="Mezzo Live HD" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv083_mobile.png" group-title="🌟湾湾频道②🌟",Mezzo Live HD
+#EXTINF:-1 tvg-id="CLASSICA 古典樂" tvg-name="CLASSICA 古典樂" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv059_mobile.png" group-title="🌟湾湾频道②🌟",CLASSICA 古典樂
+#EXTINF:-1 tvg-id="東森購物三台" tvg-name="東森購物三台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.png" group-title="🌟湾湾频道②🌟",東森購物三台
+#EXTINF:-1 tvg-id="INULTRA" tvg-name="INULTRA" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_INULTRA_mobile.png" group-title="🌟湾湾频道②🌟",INULTRA
+#EXTINF:-1 tvg-id="hlsproxy-1526" tvg-name="TRACE Sport Stars" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv077_mobile.png" group-title="🌟湾湾频道②🌟",TRACE Sport Stars
+#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv101_mobile.png" group-title="🌟湾湾频道②🌟",智林體育台
+#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv014_mobile.png" group-title="🌟湾湾频道②🌟",時尚運動X
+#EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live201_mobile.png" group-title="🌟湾湾频道②🌟",車迷TV
+#EXTINF:-1 tvg-id="hlsproxy-1185" tvg-name="GINX Esports TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv053_mobile.png" group-title="🌟湾湾频道②🌟",GINX Esports TV
+#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv07_mobile.png" group-title="🌟湾湾频道②🌟",民視旅遊台
+#EXTINF:-1 tvg-id="滾動力rollor" tvg-name="滾動力rollor" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live012_mobile.png" group-title="🌟湾湾频道②🌟",滾動力rollor
+#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn17_mobile.png" group-title="🌟湾湾频道②🌟",亞洲旅遊台
+#EXTINF:-1 tvg-id="fun探索娛樂台" tvg-name="fun探索娛樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live011_mobile.png" group-title="🌟湾湾频道②🌟",fun探索娛樂台
+#EXTINF:-1 tvg-id="幸福空間居家台" tvg-name="幸福空間居家台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live206_mobile.png" group-title="🌟湾湾频道②🌟",幸福空間居家台
+#EXTINF:-1 tvg-id="hlsproxy-51830" tvg-name="Love Nature" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/ogo_4gtv_4gtv-live208_mobile.png" group-title="🌟湾湾频道②🌟",Love Nature
+#EXTINF:-1 tvg-id="hlsproxy-95" tvg-name="History 歷史頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live026_mobile.png" group-title="🌟湾湾频道②🌟",History 歷史頻道
+#EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live120_mobile.png" group-title="🌟湾湾频道②🌟",愛爾達生活旅遊台
+#EXTINF:-1 tvg-id="hlsproxy-105" tvg-name="LUXE TV Channel" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live121_mobile.png" group-title="🌟湾湾频道②🌟",LUXE TV Channel
+#EXTINF:-1 tvg-id="hlsproxy-54947" tvg-name="TV5MONDE STYLE HD 生活時尚" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live122_mobile.png" group-title="🌟湾湾频道②🌟",TV5MONDE STYLE HD 生活時尚
+#EXTINF:-1 tvg-id="MagellanTV頻道 (麥哲倫頻道) " tvg-name="MagellanTV頻道 (麥哲倫頻道) " tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_MGTV_mobile.png" group-title="🌟湾湾频道②🌟",MagellanTV頻道 (麥哲倫頻道)
+#EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv042_mobile.png" group-title="🌟湾湾频道②🌟",公視戲劇
+#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv09_mobile.png" group-title="🌟湾湾频道②🌟",民視影劇台
+#EXTINF:-1 tvg-id="HITS頻道" tvg-name="HITS頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live620_mobile.png" group-title="🌟湾湾频道②🌟",HITS頻道
+#EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv034_mobile_0211.png" group-title="🌟湾湾频道②🌟",八大精彩台
+#EXTINF:-1 tvg-id="霹靂布袋戲" tvg-name="霹靂布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live145_mobile.png" group-title="🌟湾湾频道②🌟",霹靂布袋戲
+#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv058_mobile.png" group-title="🌟湾湾频道②🌟",靖天戲劇台
+#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv045_mobile.png" group-title="🌟湾湾频道②🌟",靖洋戲劇台
+#EXTINF:-1 tvg-id="CI 罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live027_mobile.png" group-title="🌟湾湾频道②🌟",CI 罪案偵查頻道
+#EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv013_mobile.png" group-title="🌟湾湾频道②🌟",視納華仁紀實頻道
+#EXTINF:-1 tvg-id="影迷數位紀實台" tvg-name="影迷數位紀實台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live023_mobile.png" group-title="🌟湾湾频道②🌟",影迷數位紀實台
+#EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live144_mobile.png" group-title="🌟湾湾频道②🌟",金光布袋戲
+#EXTINF:-1 tvg-id="hlsproxy-4176" tvg-name="ROCK Action" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png" group-title="🌟湾湾频道②🌟",ROCK Action
+#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv049_mobile.png" group-title="🌟湾湾频道②🌟",采昌影劇台
+#EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv055_mobile.png" group-title="🌟湾湾频道②🌟",靖天映畫
+#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv061_mobile.png" group-title="🌟湾湾频道②🌟",靖天電影台
+#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv011_mobile-1.png" group-title="🌟湾湾频道②🌟",影迷數位電影台
+#EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv017new_mobile.png" group-title="🌟湾湾频道②🌟",amc電影台
+#EXTINF:-1 tvg-id="hlsproxy-55384" tvg-name="CinemaWorld" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live069_mobile.png" group-title="🌟湾湾频道②🌟",CinemaWorld
+#EXTINF:-1 tvg-id="My Cinema Europe HD 我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/LOGO-MCE.png" group-title="🌟湾湾频道②🌟",My Cinema Europe HD 我的歐洲電影
+#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv16_mobile.png" group-title="🌟湾湾频道②🌟",好消息
+#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv17_mobile.png" group-title="🌟湾湾频道②🌟",好消息2台
+#EXTINF:-1 tvg-id="大愛二台" tvg-name="大愛二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live106_mobile.png" group-title="🌟湾湾频道②🌟",大愛二台
+#EXTINF:-1 tvg-id="人間衛視" tvg-name="人間衛視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live008_mobile.png" group-title="🌟湾湾频道②🌟",人間衛視
+#EXTINF:-1 tvg-id="hlsproxy-126" tvg-name="NHK WORLD-JAPAN" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live168_mobile.png" group-title="🌟湾湾频道②🌟",NHK WORLD-JAPAN
+#EXTINF:-1 tvg-id="hlsproxy-85" tvg-name="FRANCE24 英文台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv_mobile.png" group-title="🌟湾湾频道②🌟",FRANCE24 英文台
+#EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv10_mobile.png" group-title="🌟湾湾频道②🌟",半島國際新聞台
+#EXTINF:-1 tvg-id="hlsproxy-20153" tvg-name="CNBC Asia 財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv130_mobile.png" group-title="🌟湾湾频道②🌟",CNBC Asia 財經台
+#EXTINF:-1 tvg-id="DW德國之聲" tvg-name="DW德國之聲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live071_mobile.png" group-title="🌟湾湾频道②🌟",DW德國之聲
+#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv084_mobile_0204.png" group-title="🌟湾湾频道②🌟",國會頻道1
+#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv085_mobile_0204.png" group-title="🌟湾湾频道②🌟",國會頻道2
+#EXTINF:-1 tvg-id="TVBS綜藝台" tvg-name="TVBS綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_TVBS綜藝台_mobile-.png" group-title="🌟湾湾频道②🌟",TVBS綜藝台
+#EXTINF:-1 tvg-id="TVBS台劇台" tvg-name="TVBS台劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_TVBS台劇台_mobile-.png" group-title="🌟湾湾频道②🌟",TVBS台劇台
+#EXTINF:-1 tvg-id="經典電影台" tvg-name="經典電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live021_mobile.png" group-title="🌟湾湾频道②🌟",經典電影台
+#EXTINF:-1 tvg-id="經典卡通台" tvg-name="經典卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live022_mobile.png" group-title="🌟湾湾频道②🌟",經典卡通台
+#EXTINF:-1 tvg-id="精選動漫台" tvg-name="精選動漫台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live024_mobile.png" group-title="🌟湾湾频道②🌟",精選動漫台
+#EXTINF:-1 tvg-id="戲劇免費看 1台" tvg-name="戲劇免費看 1台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live010_mobile.png" group-title="🌟湾湾频道②🌟",戲劇免費看 1台
+#EXTINF:-1 tvg-id="市井豪門-FastTV飛速看" tvg-name="市井豪門-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live001.png" group-title="🌟湾湾频道②🌟",市井豪門-FastTV飛速看
+#EXTINF:-1 tvg-id="中視經典戲劇-FastTV飛速看" tvg-name="中視經典戲劇-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live003.png" group-title="🌟湾湾频道②🌟",中視經典戲劇-FastTV飛速看
+#EXTINF:-1 tvg-id="花系列戲劇-FastTV飛速看" tvg-name="花系列戲劇-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_fast-live004_mobile.png" group-title="🌟湾湾频道②🌟",花系列戲劇-FastTV飛速看
+#EXTINF:-1 tvg-id="華視好劇-FastTV飛速看" tvg-name="華視好劇-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live005.png" group-title="🌟湾湾频道②🌟",華視好劇-FastTV飛速看
+#EXTINF:-1 tvg-id="公視好劇-FastTV飛速看" tvg-name="公視好劇-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live006.png" group-title="🌟湾湾频道②🌟",公視好劇-FastTV飛速看
+#EXTINF:-1 tvg-id="客家好劇-FastTV飛速看" tvg-name="客家好劇-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live007.png" group-title="🌟湾湾频道②🌟",客家好劇-FastTV飛速看
+#EXTINF:-1 tvg-id="懷舊經典電影-FastTV飛速看" tvg-name="懷舊經典電影-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live008.png" group-title="🌟湾湾频道②🌟",懷舊經典電影-FastTV飛速看
+#EXTINF:-1 tvg-id="精選華語電影-FastTV飛速看" tvg-name="精選華語電影-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live009.png" group-title="🌟湾湾频道②🌟",精選華語電影-FastTV飛速看
+#EXTINF:-1 tvg-id="台灣靈異事件-FastTV飛速看" tvg-name="台灣靈異事件-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-台劇.png" group-title="🌟湾湾频道②🌟",台灣靈異事件-FastTV飛速看
+#EXTINF:-1 tvg-id="新兵日記-FastTV飛速看" tvg-name="新兵日記-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live011.png" group-title="🌟湾湾频道②🌟",新兵日記-FastTV飛速看
+#EXTINF:-1 tvg-id="以家人之名-FastTV飛速看" tvg-name="以家人之名-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live012.png" group-title="🌟湾湾频道②🌟",以家人之名-FastTV飛速看
+#EXTINF:-1 tvg-id="加油喜事-FastTV飛速看" tvg-name="加油喜事-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live013.png" group-title="🌟湾湾频道②🌟",加油喜事-FastTV飛速看
+#EXTINF:-1 tvg-id="去有風的地方-FastTV飛速看" tvg-name="去有風的地方-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live014.png" group-title="🌟湾湾频道②🌟",去有風的地方-FastTV飛速看
+#EXTINF:-1 tvg-id="多情城市-FastTV飛速看" tvg-name="多情城市-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live015.png" group-title="🌟湾湾频道②🌟",多情城市-FastTV飛速看
+#EXTINF:-1 tvg-id="黃金歲月-FastTV飛速看" tvg-name="黃金歲月-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live016.png" group-title="🌟湾湾频道②🌟",黃金歲月-FastTV飛速看
+#EXTINF:-1 tvg-id="花千骨-FastTV飛速看" tvg-name="花千骨-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live017.png" group-title="🌟湾湾频道②🌟",花千骨-FastTV飛速看
+#EXTINF:-1 tvg-id="別打擾我種田-FastTV飛速看" tvg-name="別打擾我種田-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live018.png" group-title="🌟湾湾频道②🌟",別打擾我種田-FastTV飛速看
+#EXTINF:-1 tvg-id="5566偶像劇-FastTV飛速看" tvg-name="5566偶像劇-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live019.png" group-title="🌟湾湾频道②🌟",5566偶像劇-FastTV飛速看
+#EXTINF:-1 tvg-id="不敗愛情偶像劇-FastTV飛速看" tvg-name="不敗愛情偶像劇-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live020.png" group-title="🌟湾湾频道②🌟",不敗愛情偶像劇-FastTV飛速看
+#EXTINF:-1 tvg-id="國外電影精選-FastTV飛速看" tvg-name="國外電影精選-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live021.png" group-title="🌟湾湾频道②🌟",國外電影精選-FastTV飛速看
+#EXTINF:-1 tvg-id="日韓電影大賞-FastTV飛速看" tvg-name="日韓電影大賞-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live022.png" group-title="🌟湾湾频道②🌟",日韓電影大賞-FastTV飛速看
+#EXTINF:-1 tvg-id="大愛精選-FastTV飛速看" tvg-name="大愛精選-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live023.png" group-title="🌟湾湾频道②🌟",大愛精選-FastTV飛速看
+#EXTINF:-1 tvg-id="飛龍在天-FastTV飛速看" tvg-name="飛龍在天-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live024.png" group-title="🌟湾湾频道②🌟",飛龍在天-FastTV飛速看
+#EXTINF:-1 tvg-id="台灣傳奇-FastTV飛速看" tvg-name="台灣傳奇-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live026.png" group-title="🌟湾湾频道②🌟",台灣傳奇-FastTV飛速看
+#EXTINF:-1 tvg-id="小資女孩向前衝-FastTV飛速看" tvg-name="小資女孩向前衝-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live027.png" group-title="🌟湾湾频道②🌟",小資女孩向前衝-FastTV飛速看
+#EXTINF:-1 tvg-id="世間路-FastTV飛速看" tvg-name="世間路-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live028.png" group-title="🌟湾湾频道②🌟",世間路-FastTV飛速看
+#EXTINF:-1 tvg-id="恐怖電影-FastTV飛速看" tvg-name="恐怖電影-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live029.png" group-title="🌟湾湾频道②🌟",恐怖電影-FastTV飛速看
+#EXTINF:-1 tvg-id="古裝武俠劇-FastTV飛速看" tvg-name="古裝武俠劇-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live030.png" group-title="🌟湾湾频道②🌟",古裝武俠劇-FastTV飛速看
+#EXTINF:-1 tvg-id="以愛為營-FastTV飛速看" tvg-name="以愛為營-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live031.png" group-title="🌟湾湾频道②🌟",以愛為營-FastTV飛速看
+#EXTINF:-1 tvg-id="藍色水玲瓏-FastTV飛速看" tvg-name="藍色水玲瓏-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live032.png" group-title="🌟湾湾频道②🌟",藍色水玲瓏-FastTV飛速看
+#EXTINF:-1 tvg-id="精彩陸劇-FastTV飛速看" tvg-name="精彩陸劇-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live033.png" group-title="🌟湾湾频道②🌟",精彩陸劇-FastTV飛速看
+#EXTINF:-1 tvg-id="包青天-FastTV飛速看" tvg-name="包青天-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live034.png" group-title="🌟湾湾频道②🌟",包青天-FastTV飛速看
+#EXTINF:-1 tvg-id="007情報員-FastTV飛速看" tvg-name="007情報員-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦(007).png" group-title="🌟湾湾频道②🌟",007情報員-FastTV飛速看
+#EXTINF:-1 tvg-id="葉青歌仔戲-FastTV飛速看" tvg-name="葉青歌仔戲-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-葉青歌仔戲.png" group-title="🌟湾湾频道②🌟",葉青歌仔戲-FastTV飛速看
+#EXTINF:-1 tvg-id="大兵日記-FastTV飛速看" tvg-name="大兵日記-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-台劇.png" group-title="🌟湾湾频道②🌟",大兵日記-FastTV飛速看
+#EXTINF:-1 tvg-id="親戚不計較(特輯)-FastTV飛速看" tvg-name="親戚不計較(特輯)-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-台劇.png" group-title="🌟湾湾频道②🌟",親戚不計較(特輯)-FastTV飛速看
+#EXTINF:-1 tvg-id="日劇一丁目-FastTV飛速看" tvg-name="日劇一丁目-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-日韓劇.png" group-title="🌟湾湾频道②🌟",日劇一丁目-FastTV飛速看
+#EXTINF:-1 tvg-id="武媚娘傳奇-FastTV飛速看" tvg-name="武媚娘傳奇-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-陸劇.png" group-title="🌟湾湾频道②🌟",武媚娘傳奇-FastTV飛速看
+#EXTINF:-1 tvg-id="女力故事館-FastTV飛速看" tvg-name="女力故事館-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live033.png" group-title="🌟湾湾频道②🌟",女力故事館-FastTV飛速看
+#EXTINF:-1 tvg-id="中國傳奇故事-FastTV飛速看" tvg-name="中國傳奇故事-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live033.png" group-title="🌟湾湾频道②🌟",中國傳奇故事-FastTV飛速看
+#EXTINF:-1 tvg-id="天才衝衝衝-FastTV飛速看" tvg-name="天才衝衝衝-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live201.png" group-title="🌟湾湾频道②🌟",天才衝衝衝-FastTV飛速看
+#EXTINF:-1 tvg-id="一字千金-FastTV飛速看" tvg-name="一字千金-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live202.png" group-title="🌟湾湾频道②🌟",一字千金-FastTV飛速看
+#EXTINF:-1 tvg-id="綜藝大集合-FastTV飛速看" tvg-name="綜藝大集合-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live203.png" group-title="🌟湾湾频道②🌟",綜藝大集合-FastTV飛速看
+#EXTINF:-1 tvg-id="女人我最大-FastTV飛速看" tvg-name="女人我最大-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live204.png" group-title="🌟湾湾频道②🌟",女人我最大-FastTV飛速看
+#EXTINF:-1 tvg-id="食尚玩家-FastTV飛速看" tvg-name="食尚玩家-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live205.png" group-title="🌟湾湾频道②🌟",食尚玩家-FastTV飛速看
+#EXTINF:-1 tvg-id="11點熱吵店-FastTV飛速看" tvg-name="11點熱吵店-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live206.png" group-title="🌟湾湾频道②🌟",11點熱吵店-FastTV飛速看
+#EXTINF:-1 tvg-id="WTO姐妹會-FastTV飛速看" tvg-name="WTO姐妹會-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live207.png" group-title="🌟湾湾频道②🌟",WTO姐妹會-FastTV飛速看
+#EXTINF:-1 tvg-id="威廉沈歡樂送-FastTV飛速看" tvg-name="威廉沈歡樂送-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live208.png" group-title="🌟湾湾频道②🌟",威廉沈歡樂送-FastTV飛速看
+#EXTINF:-1 tvg-id="全家有智慧-FastTV飛速看" tvg-name="全家有智慧-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live209.png" group-title="🌟湾湾频道②🌟",全家有智慧-FastTV飛速看
+#EXTINF:-1 tvg-id="民視健康美麗生活-FastTV飛速看" tvg-name="民視健康美麗生活-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FASTTV LOGO.png" group-title="🌟湾湾频道②🌟",民視健康美麗生活-FastTV飛速看
+#EXTINF:-1 tvg-id="姊妹亮起來-FastTV飛速看" tvg-name="姊妹亮起來-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live211.png" group-title="🌟湾湾频道②🌟",姊妹亮起來-FastTV飛速看
+#EXTINF:-1 tvg-id="娛樂百分百-FastTV飛速看" tvg-name="娛樂百分百-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live212.png" group-title="🌟湾湾频道②🌟",娛樂百分百-FastTV飛速看
+#EXTINF:-1 tvg-id="超級冰冰Show-FastTV飛速看" tvg-name="超級冰冰Show-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live213.png" group-title="🌟湾湾频道②🌟",超級冰冰Show-FastTV飛速看
+#EXTINF:-1 tvg-id="豬哥會社-FastTV飛速看" tvg-name="豬哥會社-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live214.png" group-title="🌟湾湾频道②🌟",豬哥會社-FastTV飛速看
+#EXTINF:-1 tvg-id="全能歌手-FastTV飛速看" tvg-name="全能歌手-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live216.png" group-title="🌟湾湾频道②🌟",全能歌手-FastTV飛速看
+#EXTINF:-1 tvg-id="鬥陣大廟埕-FastTV飛速看" tvg-name="鬥陣大廟埕-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live218.png" group-title="🌟湾湾频道②🌟",鬥陣大廟埕-FastTV飛速看
+#EXTINF:-1 tvg-id="我的成長-FastTV飛速看" tvg-name="我的成長-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live219.png" group-title="🌟湾湾频道②🌟",我的成長-FastTV飛速看
+#EXTINF:-1 tvg-id="健康2.0-FastTV飛速看" tvg-name="健康2.0-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live220.png" group-title="🌟湾湾频道②🌟",健康2.0-FastTV飛速看
+#EXTINF:-1 tvg-id="輕鬆看法律-FastTV飛速看" tvg-name="輕鬆看法律-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live221.png" group-title="🌟湾湾频道②🌟",輕鬆看法律-FastTV飛速看
+#EXTINF:-1 tvg-id="TVBS看板人物-FastTV飛速看" tvg-name="TVBS看板人物-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live222.png" group-title="🌟湾湾频道②🌟",TVBS看板人物-FastTV飛速看
+#EXTINF:-1 tvg-id="野蠻遊戲：We Play -FastTV飛速看" tvg-name="野蠻遊戲：We Play -FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live223.png" group-title="🌟湾湾频道②🌟",野蠻遊戲：We Play -FastTV飛速看
+#EXTINF:-1 tvg-id="最愛韓星-FastTV飛速看" tvg-name="最愛韓星-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live224.png" group-title="🌟湾湾频道②🌟",最愛韓星-FastTV飛速看
+#EXTINF:-1 tvg-id="廚神明星秀-FastTV飛速看" tvg-name="廚神明星秀-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live226.png" group-title="🌟湾湾频道②🌟",廚神明星秀-FastTV飛速看
+#EXTINF:-1 tvg-id="浩克慢遊-FastTV飛速看" tvg-name="浩克慢遊-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live227.png" group-title="🌟湾湾频道②🌟",浩克慢遊-FastTV飛速看
+#EXTINF:-1 tvg-id="環遊世界800天 -FastTV飛速看" tvg-name="環遊世界800天 -FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live228.png" group-title="🌟湾湾频道②🌟",環遊世界800天 -FastTV飛速看
+#EXTINF:-1 tvg-id="綜藝新時代-FastTV飛速看" tvg-name="綜藝新時代-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live230.png" group-title="🌟湾湾频道②🌟",綜藝新時代-FastTV飛速看
+#EXTINF:-1 tvg-id="幸福保衛戰-FastTV飛速看" tvg-name="幸福保衛戰-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live231.png" group-title="🌟湾湾频道②🌟",幸福保衛戰-FastTV飛速看
+#EXTINF:-1 tvg-id="同學！搞什麼鬼-FastTV飛速看" tvg-name="同學！搞什麼鬼-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live232.png" group-title="🌟湾湾频道②🌟",同學！搞什麼鬼-FastTV飛速看
+#EXTINF:-1 tvg-id="爸媽囧很大-FastTV飛速看" tvg-name="爸媽囧很大-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live233.png" group-title="🌟湾湾频道②🌟",爸媽囧很大-FastTV飛速看
+#EXTINF:-1 tvg-id="醫學大聯盟-FastTV飛速看" tvg-name="醫學大聯盟-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live234.png" group-title="🌟湾湾频道②🌟",醫學大聯盟-FastTV飛速看
+#EXTINF:-1 tvg-id="GoGoTaiwan-FastTV飛速看" tvg-name="GoGoTaiwan-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live235.png" group-title="🌟湾湾频道②🌟",GoGoTaiwan-FastTV飛速看
+#EXTINF:-1 tvg-id="2025雙北世壯運-FastTV飛速看" tvg-name="2025雙北世壯運-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-世壯運.png" group-title="🌟湾湾频道②🌟",2025雙北世壯運-FastTV飛速看
+#EXTINF:-1 tvg-id="一起追韓星-FastTV飛速看" tvg-name="一起追韓星-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live239.png" group-title="🌟湾湾频道②🌟",一起追韓星-FastTV飛速看
+#EXTINF:-1 tvg-id="韓流美食料理秀-FastTV飛速看" tvg-name="韓流美食料理秀-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live240.png" group-title="🌟湾湾频道②🌟",韓流美食料理秀-FastTV飛速看
+#EXTINF:-1 tvg-id="綜藝大贏家-FastTV飛速看" tvg-name="綜藝大贏家-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-熱門綜藝.png" group-title="🌟湾湾频道②🌟",綜藝大贏家-FastTV飛速看
+#EXTINF:-1 tvg-id="台灣No.1棒球精選-FastTV飛速看" tvg-name="台灣No.1棒球精選-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live242.png" group-title="🌟湾湾频道②🌟",台灣No.1棒球精選-FastTV飛速看
+#EXTINF:-1 tvg-id="HahaTai 哈哈台-FastTV飛速看" tvg-name="HahaTai 哈哈台-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/哈哈台FASTTV LOGO修.png" group-title="🌟湾湾频道②🌟",HahaTai 哈哈台-FastTV飛速看
+#EXTINF:-1 tvg-id="金光布袋戲-FastTV飛速看" tvg-name="金光布袋戲-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦(金光).png" group-title="🌟湾湾频道②🌟",金光布袋戲-FastTV飛速看
+#EXTINF:-1 tvg-id="超人力霸王《TV版》FastTV飛速看" tvg-name="超人力霸王《TV版》FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題(超人力霸王TV).png" group-title="🌟湾湾频道②🌟",超人力霸王《TV版》FastTV飛速看
+#EXTINF:-1 tvg-id="超人力霸王《劇場版》FastTV飛速看" tvg-name="超人力霸王《劇場版》FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題(超人力霸王).png" group-title="🌟湾湾频道②🌟",超人力霸王《劇場版》FastTV飛速看
+#EXTINF:-1 tvg-id="哆啦A夢-FastTV飛速看" tvg-name="哆啦A夢-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦(哆拉A夢).png" group-title="🌟湾湾频道②🌟",哆啦A夢-FastTV飛速看
+#EXTINF:-1 tvg-id="經典卡通-FastTV飛速看" tvg-name="經典卡通-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-經典卡通.png" group-title="🌟湾湾频道②🌟",經典卡通-FastTV飛速看
+#EXTINF:-1 tvg-id="免費精選動畫-FastTV飛速看" tvg-name="免費精選動畫-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-動漫.png" group-title="🌟湾湾频道②🌟",免費精選動畫-FastTV飛速看
+#EXTINF:-1 tvg-id="經典迪士尼-FastTV飛速看" tvg-name="經典迪士尼-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦.png" group-title="🌟湾湾频道②🌟",經典迪士尼-FastTV飛速看
+#EXTINF:-1 tvg-id="FOOD超人-FastTV飛速看" tvg-name="FOOD超人-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦.png" group-title="🌟湾湾频道②🌟",FOOD超人-FastTV飛速看
+#EXTINF:-1 tvg-id="小兒子-FastTV飛速看" tvg-name="小兒子-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-兒童卡通.png" group-title="🌟湾湾频道②🌟",小兒子-FastTV飛速看
+#EXTINF:-1 tvg-id="親子一起看-FastTV飛速看" tvg-name="親子一起看-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-親子.png" group-title="🌟湾湾频道②🌟",親子一起看-FastTV飛速看
+#EXTINF:-1 tvg-id="怪獸之王-FastTV飛速看" tvg-name="怪獸之王-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦(怪獸).png" group-title="🌟湾湾频道②🌟",怪獸之王-FastTV飛速看
+#EXTINF:-1 tvg-id="東離劍遊紀-FastTV飛速看" tvg-name="東離劍遊紀-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦(PILI).png" group-title="🌟湾湾频道②🌟",東離劍遊紀-FastTV飛速看
+#EXTINF:-1 tvg-id="" tvg-name="DREAMROOM" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="私密頻道 ADULT",DREAMROOM
+#EXTINF:0 group-title="私密頻道 ADULT" tvg-id="3222" tvg-logo="http://epg.one/img2/3222.png" tvg-rec="0",SexArt
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", 21 Sextury
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", A3 Bikini
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", AST TV
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", AST TV 2
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Adult Time
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Alba 1
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Alba 2
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Alba 3
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Alba 4
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Alba 5
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Alba XXX HD 1
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Alba XXX HD 2
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Alex Legend
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", All Anal
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Amateur Boxxx
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Anal 4K
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Anal Mom
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Anal Only
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Anal Red TV
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Anal Teen Angels
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Anal Time
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Analized
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Asshole Fever
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", BANGBROS UHD 4K
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", BBC Pie
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", BCU Charm HD
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", BLACKED TV ELITE
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", BLACKED TV PREMIUM
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", BRAZZERS TV
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", BRAZZERS TV Europe 2
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Babes HD
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Babes TV HD
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Balkan Erotic
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Banana Fever
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Bang Bros HD
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Bang Bus
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Bang POV
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Bang!
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Bangerz
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Barely Legal TV
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Barely legal
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Big Ass Adult TV
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Big Dick Red TV
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Big Tits Adult TV
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Blacked HD
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Blowjob Red TV
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Blue Hustler
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Brand New Amateurs
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Bratty Sis
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Brazzers HD
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Brazzers eXXtra
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Brunette Adult TV
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Cento X Cento
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Cento x cento
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Cherry Pimps
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", CineMan ExExEx
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", CineMan ExExEx TWO
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Club 17
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Compilation Adult TV
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Cuckold Red TV
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Cum Louder
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Cum Perfection
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Cum4k
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Cum4k UHD
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", DDF Busty
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", DDF Network
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", DE Blue Hustler
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", DE Penthouse Passion
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", DE Playboy Europe
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", DIRTY HOBBY
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", DORCEL TV
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", DP Fanatics
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", DUSK TV
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Dad Crush
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Dancing Bear
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Dark X
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Daughter Swap
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Day with a Pornstar
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Deep Lush
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Deep Throat Sirens
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Digital Desire
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Digital Playground
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Dirty Flix
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Dirty Masseur
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Dirty Wives Club
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Dorcel Club
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Dorcel HD orig
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Dorcel TV HD
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", EROCOM TV
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", EXTASY HD
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", EXXXOTICA HD orig
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Emanuelle HD
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Eromania 4K
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Erotic
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Erotic 2
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Erotic 3
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Erotic 4
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Erotic 6
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Erotic 7
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Erotic 8
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Erotic Spice
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Erotica X
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Erox HD
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Eroxxx HD
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Euro Girls On Girls
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Evil Angel HD
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Evolved Fights
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Exotic 4k
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Extasy 4K
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Extasy HD
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Exxxotica HD
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", FAST BOYZ GAY
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", FREE X TV
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Fake Taxi HD
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Family Hookups
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Family Swap
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Fap TV 2
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Fap TV 3
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Fap TV 4
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Fap TV Anal
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Fap TV BBW
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Fap TV Compilation
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Fap TV Lesbian
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Fap TV Parody
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Fap TV Teens
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", FemJoy
+#EXTINF:-1 group-title="ADULT CH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9SrQallJ4UukKtQWfTI8mQeviT4ZhGuTykA&s", Fetish Red TV
+#EXTINF:-1 tvg-id="" tvg-name="XXX : Brazzers TV (18 )" tvg-logo="http://esv5.net:80/images/9db65f872e0ce807694d10c9a3adf827.png" group-title="For Adults",XXX : Brazzers TV (18 )
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Sinsations: Mofos (Z)(HD)" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/baf42b58-fc92-4ccb-a64e-8ca14f9e262f.jpg" group-title="CANALES-ADULTOS +18",XXX-Sinsations: Mofos (Z)(HD)
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes (Z)(HD)" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/36104869-0635-4034-9604-f6f0cb918c8a.jpg" group-title="CANALES-ADULTOS +18",XXX-Babes (Z)(HD)
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Bang Bros (Z)(HD)" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/5013f8ff-e2b3-42ce-828f-ab8634be2c32.jpg" group-title="CANALES-ADULTOS +18",XXX-Bang Bros (Z)(HD)
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Blacked (Z)(HD)" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/ca013578-8745-44a8-ac52-efc1d1a913f8.jpg" group-title="CANALES-ADULTOS +18",XXX-Blacked (Z)(HD)
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Deepthroat Sirens (Z)(HD)" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/5cc5427f-925c-43b6-8815-81941c40f096.jpg" group-title="CANALES-ADULTOS +18",XXX-Deepthroat Sirens (Z)(HD)
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Gay (men) (Z)(HD)" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/1d5c3ba2-9686-4b3d-ba82-d0512c560982.jpg" group-title="CANALES-ADULTOS +18",XXX-Gay (men) (Z)(HD)
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Gay 2 (Z)(HD)" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/4d76fbb4-d0f2-4d10-99ac-892fd75249bd.jpg" group-title="CANALES-ADULTOS +18",XXX-Gay 2 (Z)(HD)
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Lesbian (Z)(HD)" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/28e8bd8b-f582-40db-8886-2e278e854b4c.jpg" group-title="CANALES-ADULTOS +18",XXX-Lesbian (Z)(HD)
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Pure Taboo (Z)(HD)" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/021cd8df-6ddd-4d7f-840b-963b1875ac7e.jpg" group-title="CANALES-ADULTOS +18",XXX-Pure Taboo (Z)(HD)
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Whipped Ass (Z)(HD)" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/01421e5e-0592-49de-ab31-a9cd94ba52dd.jpg" group-title="CANALES-ADULTOS +18",XXX-Whipped Ass (Z)(HD)
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Erotic 5 (Z)(HD)" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/231a8a0c-2128-42b1-8c48-bde93fa47816.jpg" group-title="CANALES-ADULTOS +18",XXX-Erotic 5 (Z)(HD)
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Hotclub 3 (Z)(HD)" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/6a32c556-1e29-4fd4-892f-7824de62a1de.jpg" group-title="CANALES-ADULTOS +18",XXX-Hotclub 3 (Z)(HD)
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Jasmin TV (Z)(HD)" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/107b9d9e-1edf-4073-958c-2e7180580a3f.jpg" group-title="CANALES-ADULTOS +18",XXX-Jasmin TV (Z)(HD)
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Max (Z)(HD)" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/60775b13-38e8-46d1-b4e6-141a9d688e99.jpg" group-title="CANALES-ADULTOS +18",XXX-Max (Z)(HD)
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Oh - Ah (Z)(HD)" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/397a48f8-b175-4966-a992-5342fd011c02.jpg" group-title="CANALES-ADULTOS +18",XXX-Oh - Ah (Z)(HD)
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Passion (Z)(HD)" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/891eea3b-4995-45cb-acf9-2c34e29192f7.jpg" group-title="CANALES-ADULTOS +18",XXX-Passion (Z)(HD)
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Penthouse 1 (Z)(HD)" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/48ecf316-638e-4024-a373-fa0888eed9b5.jpg" group-title="CANALES-ADULTOS +18",XXX-Penthouse 1 (Z)(HD)
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Penthouse Gold (Z)(HD)" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/e27b612c-51b5-4774-bc07-6615fff085c3.jpg" group-title="CANALES-ADULTOS +18",XXX-Penthouse Gold (Z)(HD)
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Private TV (Z)(HD)" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/8e93a387-5258-41c5-92ae-b4477f910345.jpg" group-title="CANALES-ADULTOS +18",XXX-Private TV (Z)(HD)
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Redlight (Z)(HD)" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/d50146c5-c3d8-48bd-93c6-0b94cbd04236.jpg" group-title="CANALES-ADULTOS +18",XXX-Redlight (Z)(HD)
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Sinsations: Girls Gone Wild (Z)(HD)" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/e69930fb-4062-4456-ba90-250d758f2c49.jpg" group-title="CANALES-ADULTOS +18",XXX-Sinsations: Girls Gone Wild (Z)(HD)
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Sinsations: Bang Bros 2 (Z)(HD)" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/3001604f-2aa4-4c35-9dd3-2e15f802ad02.jpg" group-title="CANALES-ADULTOS +18",XXX-Sinsations: Bang Bros 2 (Z)(HD)
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Sinsations: Bang Bros (Z)(HD)" tvg-logo="https://luxplayer.norago.tv/img/resize/235x332/9a0be4b2-c555-4c39-8c5f-e03540729de7.jpg" group-title="CANALES-ADULTOS +18",XXX-Sinsations: Bang Bros (Z)(HD)
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams (WEB)" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="CANALES-ADULTOS +18",AdultIPTV.net Live Cams (WEB)
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net MILF (WEB)" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="CANALES-ADULTOS +18",AdultIPTV.net MILF (WEB)
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Dick (WEB)" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="CANALES-ADULTOS +18",AdultIPTV.net Big Dick (WEB)
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Tits (WEB)" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="CANALES-ADULTOS +18",AdultIPTV.net Big Tits (WEB)
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Fetish (WEB)" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="CANALES-ADULTOS +18",AdultIPTV.net Fetish (WEB)
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Pornstar (WEB)" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="CANALES-ADULTOS +18",AdultIPTV.net Pornstar (WEB)
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Ass (WEB)" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="CANALES-ADULTOS +18",AdultIPTV.net Big Ass (WEB)
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Interracial (WEB)" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="CANALES-ADULTOS +18",AdultIPTV.net Interracial (WEB)
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Latina (WEB)" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="CANALES-ADULTOS +18",AdultIPTV.net Latina (WEB)
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net POV (WEB)" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="CANALES-ADULTOS +18",AdultIPTV.net POV (WEB)
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Blowjob (WEB)" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="CANALES-ADULTOS +18",AdultIPTV.net Blowjob (WEB)
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Teen (WEB)" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="CANALES-ADULTOS +18",AdultIPTV.net Teen (WEB)
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Hardcore (WEB)" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="CANALES-ADULTOS +18",AdultIPTV.net Hardcore (WEB)
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Cuckold (WEB)" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="CANALES-ADULTOS +18",AdultIPTV.net Cuckold (WEB)
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Threesome (WEB)" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="CANALES-ADULTOS +18",AdultIPTV.net Threesome (WEB)
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Russian (WEB)" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="CANALES-ADULTOS +18",AdultIPTV.net Russian (WEB)
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Lesbian (WEB)" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="CANALES-ADULTOS +18",AdultIPTV.net Lesbian (WEB)
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Rough (WEB)" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="CANALES-ADULTOS +18",AdultIPTV.net Rough (WEB)
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Gangbang (WEB)" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="CANALES-ADULTOS +18",AdultIPTV.net Gangbang (WEB)
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Anal (WEB)" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="CANALES-ADULTOS +18",AdultIPTV.net Anal (WEB)
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Compilation (WEB)" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="CANALES-ADULTOS +18",AdultIPTV.net Compilation (WEB)
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Brunette (WEB)" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="CANALES-ADULTOS +18",AdultIPTV.net Brunette (WEB)
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Blonde (WEB)" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="CANALES-ADULTOS +18",AdultIPTV.net Blonde (WEB)
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Gay (WEB)" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="CANALES-ADULTOS +18",AdultIPTV.net Gay (WEB)
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian (WEB)" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="CANALES-ADULTOS +18",AdultIPTV.net Asian (WEB)
+#EXTINF:-1 tvg-id="" tvg-name="A GIRL KNOWS" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",A GIRL KNOWS
+#EXTINF:-1 tvg-id="" tvg-name="ADULT TIME" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",ADULT TIME
+#EXTINF:-1 tvg-id="" tvg-name="ALL GROUP SEX" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",ALL GROUP SEX
+#EXTINF:-1 tvg-id="" tvg-name="BABES" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",BABES
+#EXTINF:-1 tvg-id="" tvg-name="BANG BROS" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",BANG BROS
+#EXTINF:-1 tvg-id="" tvg-name="BLACKED" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",BLACKED
+#EXTINF:-1 tvg-id="" tvg-name="BLOW ME POV" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",BLOW ME POV
+#EXTINF:-1 tvg-id="" tvg-name="BRATTY SIS" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",BRATTY SIS
+#EXTINF:-1 tvg-id="" tvg-name="BRAZZERS" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",BRAZZERS
+#EXTINF:-1 tvg-id="" tvg-name="BUMS BUS" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",BUMS BUS
+#EXTINF:-1 tvg-id="" tvg-name="CASTING COUCH" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",CASTING COUCH
+#EXTINF:-1 tvg-id="" tvg-name="CUM 4K" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",CUM 4K
+#EXTINF:-1 tvg-id="" tvg-name="DORCEL CLUB" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",DORCEL CLUB
+#EXTINF:-1 tvg-id="" tvg-name="DREAMROOM" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",DREAMROOM
+#EXTINF:-1 tvg-id="" tvg-name="EVIL ANGEL" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",EVIL ANGEL
+#EXTINF:-1 tvg-id="" tvg-name="FAKE HOSTEL" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",FAKE HOSTEL
+#EXTINF:-1 tvg-id="" tvg-name="FAKE TAXI" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",FAKE TAXI
+#EXTINF:-1 tvg-id="" tvg-name="Fakehub Originals" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",Fakehub Originals
+#EXTINF:-1 tvg-id="" tvg-name="FAMILY STROKES" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",FAMILY STROKES
+#EXTINF:-1 tvg-id="" tvg-name="FAPADOO" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",FAPADOO
+#EXTINF:-1 tvg-id="" tvg-name="FIFTHY KINGS" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",FIFTHY KINGS
+#EXTINF:-1 tvg-id="" tvg-name="FIRST ANAL QUEST" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",FIRST ANAL QUEST
+#EXTINF:-1 tvg-id="" tvg-name="JAYS POV" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",JAYS POV
+#EXTINF:-1 tvg-id="" tvg-name="Holed" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",Holed
+#EXTINF:-1 tvg-id="" tvg-name="HOT WIFE XXX" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",HOT WIFE XXX
+#EXTINF:-1 tvg-id="" tvg-name="HUSSIE PASS" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",HUSSIE PASS
+#EXTINF:-1 tvg-id="" tvg-name="INTERRACIAL PASS" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",INTERRACIAL PASS
+#EXTINF:-1 tvg-id="" tvg-name="KINKY FAMILY" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",KINKY FAMILY
+#EXTINF:-1 tvg-id="" tvg-name="KINKY INLAWS" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",KINKY INLAWS
+#EXTINF:-1 tvg-id="" tvg-name="LETS DOELT" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",LETS DOELT
+#EXTINF:-1 tvg-id="" tvg-name="Little Asians" tvg-logo="http://img-cdn.curl.pk:8880/chimg/9117170896.jpg" group-title="XXX (Adult 18+ Only)",Little Asians
+#EXTINF:-1 tvg-id="" tvg-name="MEN" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",MEN
+#EXTINF:-1 tvg-id="" tvg-name="MOFOS" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",MOFOS
+#EXTINF:-1 tvg-id="" tvg-name="MOM TEACH SEX" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",MOM TEACH SEX
+#EXTINF:-1 tvg-id="" tvg-name="MY FAMILY PIES" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",MY FAMILY PIES
+#EXTINF:-1 tvg-id="" tvg-name="MY DIRTY HOBBY" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",MY DIRTY HOBBY
+#EXTINF:-1 tvg-id="" tvg-name="MY LIFE IN MIAMI" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",MY LIFE IN MIAMI
+#EXTINF:-1 tvg-id="" tvg-name="MY PERVY FAMILY" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",MY PERVY FAMILY
+#EXTINF:-1 tvg-id="" tvg-name="MY TINY WISH" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",MY TINY WISH
+#EXTINF:-1 tvg-id="" tvg-name="NET VIDEO GIRLS" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",NET VIDEO GIRLS
+#EXTINF:-1 tvg-id="" tvg-name="NEW SENSATIONS" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",NEW SENSATIONS
+#EXTINF:-1 tvg-id="" tvg-name="NUBILE FILMS" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",NUBILE FILMS
+#EXTINF:-1 tvg-id="" tvg-name="NURU MASSAGE" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",NURU MASSAGE
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse Gold" tvg-logo="http://img-cdn.curl.pk:8880/chimg/asdfasd.gif" group-title="XXX (Adult 18+ Only)",Penthouse Gold
+#EXTINF:-1 tvg-id="" tvg-name="Playboy Plus" tvg-logo="http://img-cdn.curl.pk:8880/chimg/asdfasd.gif" group-title="XXX (Adult 18+ Only)",Playboy Plus
+#EXTINF:-1 tvg-id="" tvg-name="POVD" tvg-logo="http://img-cdn.curl.pk:8880/chimg/asdfasd.gif" group-title="XXX (Adult 18+ Only)",POVD
+#EXTINF:-1 tvg-id="" tvg-name="PROPERTY SEX" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",PROPERTY SEX
+#EXTINF:-1 tvg-id="" tvg-name="PURE BBW" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",PURE BBW
+#EXTINF:-1 tvg-id="" tvg-name="REAL GANGBANGS" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",REAL GANGBANGS
+#EXTINF:-1 tvg-id="" tvg-name="REALITY JUNKIES" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",REALITY JUNKIES
+#EXTINF:-1 tvg-id="" tvg-name="REALITY KINGS" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",REALITY KINGS
+#EXTINF:-1 tvg-id="" tvg-name="Sis Loves Me" tvg-logo="http://img-cdn.curl.pk:8880/chimg/asdfasd.gif" group-title="XXX (Adult 18+ Only)",Sis Loves Me
+#EXTINF:-1 tvg-id="" tvg-name="SLIM 4K" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",SLIM 4K
+#EXTINF:-1 tvg-id="" tvg-name="STEB SIBLINGS CAUGHT" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",STEB SIBLINGS CAUGHT
+#EXTINF:-1 tvg-id="" tvg-name="SUGAR BABES" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",SUGAR BABES
+#EXTINF:-1 tvg-id="" tvg-name="TEEN FIDELITY" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",TEEN FIDELITY
+#EXTINF:-1 tvg-id="" tvg-name="Thai Girls Wild" tvg-logo="http://img-cdn.curl.pk:8880/chimg/asdfasd.gif" group-title="XXX (Adult 18+ Only)",Thai Girls Wild
+#EXTINF:-1 tvg-id="" tvg-name="TINY4K" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",TINY4K
+#EXTINF:-1 tvg-id="" tvg-name="TRANS: TRANS ANGELS" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",TRANS: TRANS ANGELS
+#EXTINF:-1 tvg-id="" tvg-name="TREASURE ISLAND MEDIA" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",TREASURE ISLAND MEDIA
+#EXTINF:-1 tvg-id="" tvg-name="TRUE AMATUERS" tvg-logo="https://curl.pk/img/u/e5e0a17d066b95672e9be665f17b790a9993.jpg" group-title="XXX (Adult 18+ Only)",TRUE AMATUERS
+#EXTINF:-1 tvg-id="" tvg-name="VIXEN" tvg-logo="https://github.com/Belmondox20/belmondo/blob/main/xxnas.png?raw=true" group-title="XXX (Adult 18+ Only)",VIXEN

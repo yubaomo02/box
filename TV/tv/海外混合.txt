@@ -1,0 +1,230 @@
+海外混合,#genre#
+CNA HD,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:iptvcat.net
+NBC USA,https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
+cct4欧洲咪咕,http://z.b.bkpcp.top/m.php?id=cctv4o
+台视新闻台,http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/ttvnews_twn/playlist.m3u8
+Animax (HK),https://s1.m16tv.cfd/aktv/animaxhk/AKTV.m3u8
+AXN,https://s1.m16tv.cfd/aktv/axn/AKTV.m3u8
+Channel 5 HD,https://s1.m16tv.cfd/aktv/channel5hd/AKTV.m3u8
+Channel 8 HD,https://s1.m16tv.cfd/aktv/channel8hd/AKTV.m3u8
+Channel U HD,https://s1.m16tv.cfd/aktv/channeluhd/AKTV.m3u8
+myTV SUPER 18台,https://s1.m16tv.cfd/aktv/mytvsuper18/AKTV.m3u8
+PopC,https://s1.m16tv.cfd/aktv/popc/AKTV.m3u8
+ROCK Action,https://s1.m16tv.cfd/aktv/rockaction/AKTV.m3u8
+TVB Plus,https://s1.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
+tvN,https://s1.m16tv.cfd/aktv/tvn/AKTV.m3u8
+明珠剧集台(北美),https://s1.m16tv.cfd/aktv/CH-19/AKTV.m3u8
+明珠台,https://s1.m16tv.cfd/aktv/CH-2/AKTV.m3u8
+無線新聞台,https://s1.m16tv.cfd/aktv/CH-1/AKTV.m3u8
+美亞電影台(HK),https://s1.m16tv.cfd/aktv/hk/AKTV.m3u8
+翡翠剧集台(北美),https://s1.m16tv.cfd/aktv/CH-18/AKTV.m3u8
+翡翠台,https://s1.m16tv.cfd/aktv/CH-0/AKTV.m3u8
+翡翠综合台(北美),https://s1.m16tv.cfd/aktv/CH-17/AKTV.m3u8
+鳳凰衛視中文台,https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
+鳳凰衛視資訊台,https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
+鳳凰衛視香港台,https://s1.m16tv.cfd/aktv/CH-5/AKTV.m3u8
+HBO,https://s1.m16tv.cfd/aktv2/hbo/AKTV.m3u8
+IQIYI,https://s1.m16tv.cfd/aktv2/iqiyi/AKTV.m3u8
+天映电影,https://s1.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
+好萊塢電影台,https://s1.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
+東森洋片,https://s1.m16tv.cfd/aktv2/CH-2/AKTV.m3u8
+東森電影,https://s1.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
+緯來體育台,https://s1.m16tv.cfd/aktv2/CH-0/AKTV.m3u8
+CNA,https://s1.m16tv.cfd/aktv3/cna/AKTV.m3u8
+KPOP+,https://s1.m16tv.cfd/aktv3/kpop/AKTV.m3u8
+朝鲜恩情台,https://s1.m16tv.cfd/aktv3/CH-0/AKTV.m3u8
+Japan News 24H LIVE,https://s1.m16tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
+日テレNEWS LIVE,https://s1.m16tv.cfd/aktvjp/ntv/AKTV.m3u8
+8TV,https://s1.m16tv.cfd/astro/8tv/AKTV.m3u8
+My Cinema Europe HD 我的歐洲電影,https://s1.m16tv.cfd/taiwan/CH-3/AKTV.m3u8
+TVBS,https://s1.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
+影迷數位紀實台,https://s1.m16tv.cfd/taiwan/CH-2/AKTV.m3u8
+民視,https://s1.m16tv.cfd/taiwan/CH-1/AKTV.m3u8
+民視第一台,https://s1.m16tv.cfd/taiwan/CH-0/AKTV.m3u8
+龍華日韓台,https://s1.m16tv.cfd/taiwan/CH-5/AKTV.m3u8
+TVB 星河,https://s1.m16tv.cfd/taiwan2/tvb/AKTV.m3u8
+TVBS新聞,https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
+中天新闻台,https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
+東森新聞,https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
+Animax (HK),https://s2.m16tv.cfd/aktv/animaxhk/AKTV.m3u8
+AXN,https://s2.m16tv.cfd/aktv/axn/AKTV.m3u8
+Channel 5 HD,https://s2.m16tv.cfd/aktv/channel5hd/AKTV.m3u8
+Channel 8 HD,https://s2.m16tv.cfd/aktv/channel8hd/AKTV.m3u8
+Channel U HD,https://s2.m16tv.cfd/aktv/channeluhd/AKTV.m3u8
+myTV SUPER 18台,https://s2.m16tv.cfd/aktv/mytvsuper18/AKTV.m3u8
+PopC,https://s2.m16tv.cfd/aktv/popc/AKTV.m3u8
+ROCK Action,https://s2.m16tv.cfd/aktv/rockaction/AKTV.m3u8
+TVB Plus,https://s2.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
+tvN,https://s2.m16tv.cfd/aktv/tvn/AKTV.m3u8
+明珠剧集台(北美),https://s2.m16tv.cfd/aktv/CH-19/AKTV.m3u8
+明珠台,https://s2.m16tv.cfd/aktv/CH-2/AKTV.m3u8
+無線新聞台,https://s2.m16tv.cfd/aktv/CH-1/AKTV.m3u8
+美亞電影台(HK),https://s2.m16tv.cfd/aktv/hk/AKTV.m3u8
+翡翠剧集台(北美),https://s2.m16tv.cfd/aktv/CH-18/AKTV.m3u8
+翡翠台,https://s2.m16tv.cfd/aktv/CH-0/AKTV.m3u8
+翡翠综合台(北美),https://s2.m16tv.cfd/aktv/CH-17/AKTV.m3u8
+鳳凰衛視中文台,https://s2.m16tv.cfd/aktv/CH-3/AKTV.m3u8
+鳳凰衛視資訊台,https://s2.m16tv.cfd/aktv/CH-4/AKTV.m3u8
+鳳凰衛視香港台,https://s2.m16tv.cfd/aktv/CH-5/AKTV.m3u8
+HBO,https://s2.m16tv.cfd/aktv2/hbo/AKTV.m3u8
+IQIYI,https://s2.m16tv.cfd/aktv2/iqiyi/AKTV.m3u8
+天映电影,https://s2.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
+好萊塢電影台,https://s2.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
+東森洋片,https://s2.m16tv.cfd/aktv2/CH-2/AKTV.m3u8
+東森電影,https://s2.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
+緯來體育台,https://s2.m16tv.cfd/aktv2/CH-0/AKTV.m3u8
+CNA,https://s2.m16tv.cfd/aktv3/cna/AKTV.m3u8
+KPOP+,https://s2.m16tv.cfd/aktv3/kpop/AKTV.m3u8
+朝鲜恩情台,https://s2.m16tv.cfd/aktv3/CH-0/AKTV.m3u8
+Japan News 24H LIVE,https://s2.m16tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
+日テレNEWS LIVE,https://s2.m16tv.cfd/aktvjp/ntv/AKTV.m3u8
+8TV,https://s2.m16tv.cfd/astro/8tv/AKTV.m3u8
+My Cinema Europe HD 我的歐洲電影,https://s2.m16tv.cfd/taiwan/CH-3/AKTV.m3u8
+TVBS,https://s2.m16tv.cfd/taiwan/tvbs/AKTV.m3u8
+影迷數位紀實台,https://s2.m16tv.cfd/taiwan/CH-2/AKTV.m3u8
+民視,https://s2.m16tv.cfd/taiwan/CH-1/AKTV.m3u8
+民視第一台,https://s2.m16tv.cfd/taiwan/CH-0/AKTV.m3u8
+龍華日韓台,https://s2.m16tv.cfd/taiwan/CH-5/AKTV.m3u8
+TVB 星河,https://s2.m16tv.cfd/taiwan2/tvb/AKTV.m3u8
+TVBS新聞,https://s2.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
+中天新闻台,https://s2.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
+東森新聞,https://s2.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
+咪咕4K-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226938/1.m3u8
+咪咕4K-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226989/1.m3u8
+咪咕4K-2,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226991/1.m3u8
+CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
+CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226694/1.m3u8
+CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226705/1.m3u8
+CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226823/1.m3u8
+CCTV2,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
+CCTV3,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
+CCTV4,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8
+CCTV5,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
+CCTV5+,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8
+CCTV6,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3u8
+CCTV7,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226721/1.m3u8
+CCTV8,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3u8
+CCTV9,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226657/1.m3u8
+CCTV9,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226651/1.m3u8
+CCTV10,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226708/1.m3u8
+CCTV11,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8
+CCTV12,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226748/1.m3u8
+CCTV12,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226723/1.m3u8
+CCTV13,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m3u8
+CCTV14,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226645/1.m3u8
+CCTV14,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226663/1.m3u8
+CCTV15.576,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226648/1.m3u8
+CCTV16,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
+CCTV17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m3u8
+CCTV17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m3u8
+CGTN.576,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226666/1.m3u8
+CETV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m3u8
+CETV1.576,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226712/1.m3u8
+CETV2.576,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226718/1.m3u8
+CETV3.576,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226722/1.m3u8
+CETV4.576,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226724/1.m3u8
+广东卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221227161/1.m3u8
+深圳卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226688/1.m3u8
+湖南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8
+金鹰纪实,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226667/1.m3u8
+东方卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226734/1.m3u8
+北京卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8
+北京纪实,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226658/1.m3u8
+北京纪实,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226656/1.m3u8
+北京纪实.576,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226730/1.m3u8
+浙江卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226690/1.m3u8
+江苏卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226692/1.m3u8
+江西卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226726/1.m3u8
+江西卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226682/1.m3u8
+东南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226670/1.m3u8
+东南卫视.576,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226675/1.m3u8
+厦门卫视.576,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226695/1.m3u8
+广西卫视.576,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226681/1.m3u8
+海南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226679/1.m3u8
+海南卫视.576,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226683/1.m3u8
+安徽卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226655/1.m3u8
+安徽卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226664/1.m3u8
+四川卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226659/1.m3u8
+四川卫视.576,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226697/1.m3u8
+贵州卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226672/1.m3u8
+贵州卫视.576,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226676/1.m3u8
+云南卫视.576,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226709/1.m3u8
+重庆卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226680/1.m3u8
+天津卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226686/1.m3u8
+湖北卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226713/1.m3u8
+河北卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226684/1.m3u8
+河南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226668/1.m3u8
+河南卫视.576,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226687/1.m3u8
+黑龙江卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226716/1.m3u8
+辽宁卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226689/1.m3u8
+宁夏卫视.576,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226691/1.m3u8
+山东卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226693/1.m3u8
+内蒙古卫视.576,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226685/1.m3u8
+吉林卫视.576,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226671/1.m3u8
+青海卫视.576,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226696/1.m3u8
+甘肃卫视.576,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226662/1.m3u8
+河北卫视.576,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226665/1.m3u8
+山西卫视.576,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226704/1.m3u8
+陕西卫视.576,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226707/1.m3u8
+新疆卫视.576,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226700/1.m3u8
+兵团卫视.576,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226661/1.m3u8
+西藏卫视.576,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226710/1.m3u8
+山东教育卫视.576,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226701/1.m3u8
+金鹰卡通.576,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226674/1.m3u8
+卡酷少儿.576,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226677/1.m3u8
+哈哈炫动.576,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226703/1.m3u8
+哒啵电竞,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226891/1.m3u8
+哒啵赛事,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226905/1.m3u8
+睛彩竞技,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226870/1.m3u8
+睛彩竞技,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226969/1.m3u8
+睛彩竞技,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226988/1.m3u8
+睛彩青少,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226992/1.m3u8
+睛彩青少,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226930/1.m3u8
+睛彩青少,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226965/1.m3u8
+睛彩广场舞,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226933/1.m3u8
+睛彩广场舞,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221227036/1.m3u8
+睛彩篮球,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226952/1.m3u8
+睛彩篮球,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226966/1.m3u8
+睛彩篮球,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226994/1.m3u8
+咪咕视频1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226909/1.m3u8
+咪咕视频2,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226912/1.m3u8
+咪咕视频3,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226915/1.m3u8
+咪咕视频4,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226918/1.m3u8
+咪咕视频5,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226921/1.m3u8
+咪咕视频6,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226923/1.m3u8
+咪咕视频7,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226924/1.m3u8
+咪咕视频8,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226926/1.m3u8
+咪咕视频9,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226927/1.m3u8
+咪咕视频10,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226929/1.m3u8
+咪咕视频11,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226932/1.m3u8
+咪咕视频12,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226935/1.m3u8
+咪咕视频13,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226936/1.m3u8
+咪咕视频14,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226941/1.m3u8
+咪咕视频15,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226944/1.m3u8
+咪咕视频16,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226947/1.m3u8
+咪咕视频17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226948/1.m3u8
+咪咕视频18,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226950/1.m3u8
+咪咕视频19,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226951/1.m3u8
+咪咕视频20,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226953/1.m3u8
+咪咕视频21,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226954/1.m3u8
+咪咕视频22,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226956/1.m3u8
+咪咕视频23,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226982/1.m3u8
+咪咕视频24,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226985/1.m3u8
+咪咕视频25,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226995/1.m3u8
+咪咕视频26,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226997/1.m3u8
+咪咕视频27,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221227000/1.m3u8
+咪咕视频28,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221227003/1.m3u8
+咪咕视频29,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221227006/1.m3u8
+咪咕视频30,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221227009/1.m3u8
+咪咕视频31,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221227012/1.m3u8
+咪咕视频32,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221227024/1.m3u8
+咪咕视频33,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221227027/1.m3u8
+咪咕视频34,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221227030/1.m3u8
+央广购物.720,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221227413/1.m3u8
+芒果TV.信源检修中,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226754/1.m3u8
+芒果TV.信源检修中,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226955/1.m3u8
+DRAMA HEBAT,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
+FILEM MANTAP,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
+LAWAK SENTRAL,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
+DRAMA HOTSPOT,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
+TRAVEL & TASTE,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
