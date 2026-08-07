@@ -15,6 +15,8 @@ warnings.filterwarnings("ignore", category=DeprecationWarning)
 TARGET_CONFIG = {
     "110.241":808,
     "110.248":85,
+    "101.18":808,
+    "121.24":9901,
     "106.115":9901
 }
 CHECK_PATH = "/iptv/live/1000.json?key=txipt"
