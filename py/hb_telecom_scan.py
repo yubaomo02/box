@@ -13,6 +13,8 @@ warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 # --- 核心配置：支持不同网段对应不同端口 ---
 TARGET_CONFIG = {
+    "101.18":808,
+    "110.248":85,
     "106.115":9901
 }
 CHECK_PATH = "/iptv/live/1000.json?key=txipt"
